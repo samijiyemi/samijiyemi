@@ -21,7 +21,7 @@ Hi 👋 My name is Sam Ijiyemi
 Software Engineer
 -----------------
 
-Python developer with 3 years of experience in finance and fintech. Well-acquainted with database engineering, data warehouses, and data processing. Knowledgeable in Python frameworks related to data such as SciPy, NumPy, Matplotlib. Cloudera certified Data analyst, PCPP-1 certification and Spark/Hadoop developer certification.
+Python developer with 3 years of experience in Edtech and fintech. Well-acquainted with database engineering, data warehouses, and data processing. Knowledgeable in Python frameworks related to data such as SciPy, NumPy, Matplotlib. Cloudera certified Data analyst, PCPP-1 certification and Spark/Hadoop developer certification.
 
 * 🌍  I'm based in Lagos
 * ✉️  You can contact me at [samijiyemi@gmail.com](mailto:samijiyemi@gmail.com)
