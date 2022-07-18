@@ -19,7 +19,7 @@ Hi 👋 My name is Sam Ijiyemi
 Software Engineer
 -----------------
 
-Python developer with 2 years of experience building websites and APIs in Flask and FastAPI. Well-acquainted with database engineering, data warehouses, and data processing. Knowledgeable in Python frameworks related to data such as SciPy, NumPy, and Matplotlib.
+Python developer with 2 years of experience building websites and APIs in Django and FastAPI. Well-acquainted with database engineering, data warehouses, and data processing. Knowledgeable in Python frameworks related to data such as SciPy, NumPy, and Matplotlib.
 
 I Blog at <a href="https://dev.to/ogbenisamu" target="_blank" rel="noreferrer">https://dev.to/ogbenisamu</a>
 
