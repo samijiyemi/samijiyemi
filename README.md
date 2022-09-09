@@ -19,15 +19,6 @@ Hi 👋 My name is Sam Ijiyemi
 Software Engineer
 -----------------
 
-Python developer with 2 years of experience building websites and APIs in Django and FastAPI. Well-acquainted with database engineering, data warehouses, and data processing. Knowledgeable in Python frameworks related to data such as SciPy, NumPy, and Matplotlib.
-
-I Blog at <a href="https://dev.to/ogbenisamu" target="_blank" rel="noreferrer">https://dev.to/ogbenisamu</a>
-
-* 🌍  I'm based in Lagos
-* ✉️  You can contact me at [samijiyemi@gmail.com](mailto:samijiyemi@gmail.com)
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-
+I am a dedicated hard working team player with experice and excellent 
+knowledge on cutting edge up-to-date web development technologies React JS, Node JS, Express JS, Mongo DB 
+seeking a web developer role in your company I am willing to utilize my 1+ years of experience as MERN Stack web developer and excellent creative skills for your company achieve its goals
