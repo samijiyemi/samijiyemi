@@ -1,9 +1,8 @@
 Hi 👋 My name is Sam Ijiyemi
 ============================
 
-Software Engineer
+Data Analyst | Economist
 -----------------
 
-I am a dedicated hard working team player with experice and excellent 
-knowledge on cutting edge up-to-date web development technologies React JS, Node JS, Express JS, Mongo DB 
-seeking a web developer role in your company I am willing to utilize my 1+ years of experience as MERN Stack web developer and excellent creative skills for your company achieve its goals
+I am a dedicated hard-working team player with experience and excellent, knowledge of cutting edge up-to-date web development technologies Python, SQL, Matplotlib
+[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23945%26project%3D%26in%3D0)](https://codetime.dev)
