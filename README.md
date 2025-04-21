@@ -1,14 +1,9 @@
-Hi 👋 My name is Sam Ijiyemi
+Samuel Ijiyemi | Web Developer
 ============================
+Full-stack developer specializing in WordPress and Node.js. Since 2020, I've been crafting custom WordPress solutions, seamlessly blending functionality with design. In 2022, I expanded my expertise to Node.js, allowing me to build robust, scalable backend systems and complete full-stack applications.
 
-Data Analyst | Python | SQL | Node JS
------------------
-
-Experienced data analyst with a strong background in economics. Analytical thinker skilled in transforming complex data sets into actionable insights. Proficient in statistical analysis, data visualization, and programming languages such as Python and SQL. 
-
-Committed to driving data-driven decision-making and leveraging economic principles to enhance business strategies. Adept at communicating findings to both technical and non-technical stakeholders. 
-
-Eager to contribute expertise in data analysis to drive organizational success.
+I'm passionate about creating efficient, user-focused digital experiences that solve real-world problems. Always learning and refining my craft to stay current with emerging technologies.
+Let's connect and build something amazing together!
 <br />
 <br />
 [![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23945%26project%3D%26in%3D0)](https://codetime.dev)
